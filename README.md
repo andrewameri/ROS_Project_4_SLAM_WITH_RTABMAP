@@ -38,8 +38,8 @@ $ roslaunch map_my_world mapping.launch
 
 ## Authors
 
-* **Udacity** - *Initial code snippets * - [PurpleBooth](https://www.udacity.com)
-* **Andrew Ameri** - *Finalizing, building, and testing the project* - [PurpleBooth](https://www.udacity.com)
+* **Udacity** - *Initial code snippets * - [Udacity](https://www.udacity.com)
+* **Andrew Ameri** - *Finalizing, building, and testing the project* - [andrewameri](https://github.com/andrewameri)
 
 
 
